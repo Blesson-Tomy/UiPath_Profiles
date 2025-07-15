@@ -132,16 +132,20 @@ h6{
 }
 
 @media screen and (max-width: 600px) {
-    .button {
-        width: 90%;
-    }
+   
 
     h1 {
         font-size: 1.8rem;
     }
 
+    .buttons {
+        width: 80%;
+        
+    }
+
     .body {
         padding-top: 20px;
+        
         font-size: medium;
     }
 }
