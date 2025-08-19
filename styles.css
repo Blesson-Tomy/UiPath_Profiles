@@ -2,6 +2,7 @@
 body{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin: 0px;
+    height: 100vh;
     background: radial-gradient(ellipse at bottom, var(--bgColor) 0%, var(--bgColor2) 100%);
     animation: 1s ease-out var(--delay) 1 transitionAnimation; /* duration/timing-function/delay/iterations/name */
     animation-fill-mode: forwards;
@@ -9,6 +10,7 @@ body{
     background-size: cover;
     position: relative;
     margin-top: -20px ;
+    background-color: #DD7D24;
     
 
 }
